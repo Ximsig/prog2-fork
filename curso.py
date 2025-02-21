@@ -8,20 +8,20 @@ class Curso:
         Curso.total_cursos += 1  # Aumenta el contador cada vez que se crea un curso
     
     def mostrar_detalles(self):
-        pass
+        print('mostrar_detalles()')
 
     def actualizar_descripcion(self, nueva_descripcion: str):
-        pass
+        print('método actualizar_desc()')
 
     def __str__(self):
         return 'Método str'
     
     def __repr__(self):
-        pass
+        return 'Método repr'
 
     @classmethod
     def desde_tupla(cls, tupla):
-        pass
+        print('método de clase desde_tupla()')
 
     @staticmethod
     def es_curso_abierto():
