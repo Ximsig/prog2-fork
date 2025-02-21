@@ -1,12 +1,12 @@
-# [Título]
-[//]: # (Incluid aquí la descripción de vuestra aplicación. Por cierto, así se ponen comentarios en Markdown)
+# [Clase Estudiante]
+[//]: # Vamos a desarrollar en este fichero la clase estudiante
 
 ## Autores
 
-* (Coordinador) [Nombre 1 Apellido 1 Apellido 1](https://github.com/alumno1)
-* [Nombre 2 Apellido 2 Apellido 2](https://github.com/alumno2)
-* [Nombre 3 Apellido 3 Apellido 3](https://github.com/alumno3)
-* [Nombre 4 Apellido 4 Apellido 4](https://github.com/alumno4)
+* (Coordinador) [Juan Carlos Valentín Pérez]
+* [Sandra Crevillen ](https://github.com/alumno2)
+* [Joaquín ](https://github.com/alumno3)
+* [Jorge](https://github.com/alumno4)
 * [Nombre 5 Apellido 5 Apellido 5](https://github.com/alumno5)
 
 ## Profesor
