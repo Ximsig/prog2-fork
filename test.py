@@ -16,3 +16,6 @@ def ruleta_rusa():
 
 if __name__ == "__main__":
     ruleta_rusa()
+
+
+#cojonudo
