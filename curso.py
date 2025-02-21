@@ -22,3 +22,7 @@ class Curso:
     @classmethod
     def desde_tupla(cls, tupla):
         pass
+
+    @staticmethod
+    def es_curso_abierto():
+        return bool()
